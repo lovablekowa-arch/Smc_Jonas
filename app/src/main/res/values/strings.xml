@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">SMC Signals</string>
+    <string name="title_smc_dashboard">SMC Liquidity Signals</string>
+    <string name="tab_sniper">Sniper (4/4)</string>
+    <string name="tab_good_setup">Moyennes (3/4)</string>
+    <string name="tab_watchlist">Watchlist (2/4)</string>
+    <string name="tab_all">Toutes les Paires</string>
+    <string name="action_trade_taken">Trade Pris</string>
+    <string name="action_trade_active">Trade Actif (Sourdine)</string>
+    <string name="action_send_telegram">Alerter Telegram</string>
+    <string name="settings_title">Réglages & Alertes</string>
+</resources>
+

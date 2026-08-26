@@ -1,0 +1,7 @@
+{
+  "name": "SMC Signals",
+  "description": "Application de trading épurée axée sur les Signaux Smart Money Concepts (SMC), confluences 4/4, détection FVG/OB et alertes Telegram.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
